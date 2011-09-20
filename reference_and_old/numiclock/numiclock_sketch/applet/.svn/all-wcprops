@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet
+END
+DS1302.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/DS1302.h
+END
+numiclock_sketch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/numiclock_sketch.cpp
+END
+numiclock_sketch.cpp.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/numiclock_sketch.cpp.hex
+END
+numiclock_sketch.cpp.elf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/numiclock_sketch.cpp.elf
+END
+DS1302.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/DS1302.cpp
+END
+numiclock_sketch.cpp.eep
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/applet/numiclock_sketch.cpp.eep
+END

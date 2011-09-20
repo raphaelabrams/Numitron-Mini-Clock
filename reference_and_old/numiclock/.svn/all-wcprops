@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/466/projects/phooky/numiclock
+END
+clock-max.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/445/projects/phooky/numiclock/clock-max.c
+END
+main.hex
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/447/projects/phooky/numiclock/main.hex
+END
+main.bin
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/447/projects/phooky/numiclock/main.bin
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/447/projects/phooky/numiclock/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/447/projects/phooky/numiclock/Makefile
+END

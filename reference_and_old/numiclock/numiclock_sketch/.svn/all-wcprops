@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch
+END
+DS1302.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/DS1302.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/README.txt
+END
+numiclock_sketch.pde
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/numiclock_sketch.pde
+END
+DS1302.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/466/projects/phooky/numiclock/numiclock_sketch/DS1302.cpp
+END
