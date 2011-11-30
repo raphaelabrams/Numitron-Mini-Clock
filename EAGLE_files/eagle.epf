@@ -326,12 +326,6 @@ UsedLibrary="/home/raphael/programs/eagle-5.10.0/lbr/zilog.lbr"
 UsedLibrary="clock_kit.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="859 643 1458 1042"
-State=2
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
 Loc="0 25 1279 777"
 State=1
@@ -372,7 +366,7 @@ Layer=91
 Views=" 1: 1034483 814542 1817495 1313810"
 Sheet=1
 
-[Win_3]
+[Win_2]
 Type="Board Editor"
 Loc="0 25 1279 777"
 State=1
@@ -410,6 +404,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=1
+
+[Win_3]
+Type="Control Panel"
+Loc="680 400 1279 799"
+State=2
+Number=0
 
 [Desktop]
 Screen="1280 800"
